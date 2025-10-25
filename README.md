@@ -70,7 +70,7 @@ It highlights how **Power BI** can turn raw data into meaningful visual stories 
 **A.Sai Arvind**  
 Data Analyst | Power BI | Excel | SQL | Python  
 📧 saiarvind5081@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/sai-arvind-13bb921a0)  
+🔗 www.linkedin.com/in/sai-arvind-13bb921a0
 🔗 [GitHub](https://github.com/Sai-Arvind)
 
 ---
