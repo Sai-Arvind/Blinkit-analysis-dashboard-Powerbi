@@ -69,9 +69,9 @@ It highlights how **Power BI** can turn raw data into meaningful visual stories 
 ## 👨‍💻 Author
 **A.Sai Arvind**  
 Data Analyst | Power BI | Excel | SQL | Python  
-📧 saiarvind5081@gmail.com  
-🔗 www.linkedin.com/in/sai-arvind-13bb921a0
-🔗 [GitHub](https://github.com/Sai-Arvind)
+📧 Email : saiarvind5081@gmail.com  
+🔗 linkedin : https://www.linkedin.com/in/saiarvindofficial/
+🔗 GitHub : https://github.com/Sai-Arvind
 
 ---
 
